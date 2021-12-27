@@ -2,7 +2,7 @@
 
 View Application [Here](https://electron-react-weather.vercel.app/)
 
-![Image](public\images\screenshot.jpg)
+![Image](/public/images/screenshot.jpg)
 
 ## Run the following command to deploy on your desktop
 
