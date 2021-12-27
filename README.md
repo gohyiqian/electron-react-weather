@@ -1,3 +1,16 @@
+## Electron-React-Weather
+
+View Application [Here](https://electron-react-weather.vercel.app/)
+
+![Image](public\images\screenshot.jpg)
+
+## Run the following command to deploy on your desktop
+
+```
+npm install
+npm run dev
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
